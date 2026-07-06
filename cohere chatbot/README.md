@@ -1,1 +1,0 @@
-# Cohere Chatbot\nSet COHERE_API_KEY in Render environment variables and deploy.\n
